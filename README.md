@@ -29,31 +29,32 @@ _The notebooks of Part II will be added later_
 ## Working with the notebooks
 If you want to use your own computer, follow the setup instructions [here](./setup.md).
 
-If you want to use Google Colaboratory, click here: 
+If you want to use Google Colaboratory or Paperspace Gradient, click here: 
 
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/) <br> [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb)
 
-Remember to attach a GPU to your Colab or Gradient instances. Note that some of the examples in the course notebooks will have higher system requirements than what Google Colab or Paperspace Gradient provides (for free). In such cases you'll have to modify the code somewhat to make it run. You can also consider using the paid GPU instances of Paperspace Gradient. 
+You can browse through the notebooks non-interactively using the jupyter.org nbviewer by clicking [here](https://nbviewer.jupyter.org/github/alu042/PCS956-DL-2021/tree/master/).
+
+> Remember to attach a (free) GPU to your Colab or Gradient instances (via _"Runtime --> Change runtime type"_ in Colab or the _"Instance"_ menu in Gradient). Note that some of the examples in the course notebooks will have higher system requirements than what Google Colab or Paperspace Gradient provides (for free). In such cases you'll have to modify the code somewhat to make it run. You can also consider using the paid GPU instances of Paperspace Gradient. 
+
 
 ---
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
-|  [DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb)  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb)<br>[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb?runtime=paperspace/fastai)|
-| [DL-Example-2-image_classification-using-fastai.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-2-image_classification-using-fastai.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-2-image_classification-using-fastai.ipynb)<br>[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-2-image_classification-using-fastai.ipynb?runtime=paperspace/fastai) |
+|  [DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb)  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb)<br>[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb)|
+| [DL-Example-2-image_classification-using-fastai.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-2-image_classification-using-fastai.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-2-image_classification-using-fastai.ipynb)<br>[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-2-image_classification-using-fastai.ipynb) |
 | _More to be added_
 
 ---
 
 
-## Slides and recordings from the accompanying lecture
+## Slides and recordings from the accompanying lectures
 
 You'll find slides and recordings from the accompaying lectures via the course Canvas: https://hvl.instructure.com/courses/17737. 
 
 
-## Browse the notebooks non-interactively
 
-_You can browse through the notebooks non-interactively using jupyter.org's nbviewer by clicking [here](https://nbviewer.jupyter.org/github/alu042/PCS956-DL-2021/tree/master/)._
 
 
 

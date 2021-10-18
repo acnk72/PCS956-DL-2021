@@ -4,7 +4,6 @@ The notebooks of Part 1 accompany the introductory lecture. They are meant as an
 
 ### Notebooks
 
-> If you're using Google Colab or Paperspace Gradient, remember to attach a GPU (via _"Runtime --> Change runtime type"_ in Colab or the _"Instance"_ menu in Gradient).
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
