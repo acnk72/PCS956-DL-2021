@@ -33,10 +33,17 @@ If you want to use Google Colaboratory, click here:
 
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/)
 
-Remember to attach a GPU to your Colab instances. Note that some of the examples in the course notebooks will have higher system requirements than what Google Colab provides. In such cases you'll have to modify the code somewhat to make it run on Google Colab.
+Remember to attach a GPU to your Colab or Gradient instances. Note that some of the examples in the course notebooks will have higher system requirements than what Google Colab or Paperspace Gradient provides (for free). In such cases you'll have to modify the code somewhat to make it run. You can also consider using the paid GPU instances of Paperspace Gradient. 
 
-You can also use the free GPU instances of Paperspace Gradient. Click on the Run on Gradient button placed next to the notebooks. 
+---
 
+| Notebook    |      1-Click Notebook      |
+|:----------|------|
+|  [DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb)  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb)<br>[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb?runtime=paperspace/fastai)|
+| [DL-Example-2-image_classification-using-fastai.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-2-image_classification-using-fastai.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-2-image_classification-using-fastai.ipynb)<br>[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/1-basic_intro/DL-Example-2-image_classification-using-fastai.ipynb?runtime=paperspace/fastai) |
+| _More to be added_
+
+---
 
 
 ## Slides and recordings from the accompanying lecture
