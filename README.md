@@ -35,9 +35,8 @@ If you want to use Google Colaboratory, click here:
 
 Remember to attach a GPU to your Colab instances. Note that some of the examples in the course notebooks will have higher system requirements than what Google Colab provides. In such cases you'll have to modify the code somewhat to make it run on Google Colab.
 
-You can also use the free GPU instances of Paperspace Gradient:
+You can also use the free GPU instances of Paperspace Gradient. Click on the Run on Gradient button placed next to the notebooks. 
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/?runtime=paperspace/fastai)
 
 
 ## Slides and recordings from the accompanying lecture
