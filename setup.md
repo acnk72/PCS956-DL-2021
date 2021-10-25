@@ -38,6 +38,17 @@ conda activate pcs956
 conda install -c fastchan fastai anaconda
 ``` 
 
+## Instructions specific to the audio example in Part 2
+For the notebook `DL-Example-3-1-representing_data_as_images-sound_classification.ipynb` you'll need a separate conda environment as we'll use some packages that are incompatible with those in the `pcs956` environment created above. Do the following before running the notebook:
+
+```
+conda create -n pcs956-fastaudio python=3.7 ipykernel pandas
+conda activate pcs956-fastaudio
+conda install pytorch=1.8.1 torchvision=0.8.1 torchaudio=0.8.1 cudatoolkit -c pytorch -c nvidia
+pip install fastaudio
+python -m ipykernel install --user --name pcs956-fastaudio
+``` 
+
 ## Troubleshooting
 Once you've gone through the above process you should be able to run the course notebooks using 
 ```bash
