@@ -23,8 +23,7 @@ See [1-basic_intro](./1-basic_intro) for the accompanying notebooks.
 
 Part 2 changes gears somewhat, and flies through some more involved examples, hoping to help you figure out what avenues to explore further to become a deep learning practitioner. The goal is to expose you to some of the many ideas, techniques and tricks in modern deep learning. Those of you who are new to the field will hopefully get a useful impression of practical deep learning, with some pointers for learning more. Others more experienced in deep learning will perhaps learn some new tricks, and be exposed to some interesting approaches and applications.
 
-_The notebooks of Part II will be added later_
-
+See [2-intro_to_practical_dl](./2-intro_to_practical_dl) for the accompanying notebooks. 
 
 ## Working with the notebooks
 If you want to use your own computer, follow the setup instructions [here](./setup.md).
@@ -48,14 +47,12 @@ You can browse through the notebooks non-interactively using the jupyter.org nbv
 | [DL-Example-3-2-representing_data_as_images-molecular_activity_prediction.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2021/blob/master/2-intro_to_practical_dl/DL-Example-3-2-representing_data_as_images-molecular_activity_prediction.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/2-intro_to_practical_dl/DL-Example-3-2-representing_data_as_images-molecular_activity_prediction.ipynb)<br>[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/2-intro_to_practical_dl/DL-Example-3-2-representing_data_as_images-molecular_activity_prediction.ipynb) |
 | [dev-DL-Example-3-get_molecular_fingerprints_and_images.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2021/blob/master/2-intro_to_practical_dl/dev-notebooks/dev-DL-Example-3-get_molecular_fingerprints_and_images.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2021/blob/master/2-intro_to_practical_dl/dev-notebooks/dev-DL-Example-3-get_molecular_fingerprints_and_images.ipynb)<br>[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/alu042/PCS956-DL-2021/blob/master/2-intro_to_practical_dl/dev-notebooks/dev-DL-Example-3-get_molecular_fingerprints_and_images.ipynb) |
 
-| _More to be added_
-
 ---
 
 
 ## Slides and recordings from the accompanying lectures
 
-You'll find slides and recordings from the accompaying lectures via the course Canvas: https://hvl.instructure.com/courses/17737. 
+You'll find slides and recordings from the accompanying lectures via the course Canvas: https://hvl.instructure.com/courses/17737. 
 
 
 
